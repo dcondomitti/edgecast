@@ -1,4 +1,3 @@
-require 'bundler/setup'
 require 'typhoeus'
 require 'yaml'
 require 'json'
